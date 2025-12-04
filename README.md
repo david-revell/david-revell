@@ -1,6 +1,5 @@
-## Hi there 👋
+Hi — I’m David. I build practical AI agents and tool-integrated workflows using the OpenAI Agents SDK, MCP, and Phoenix tracing.
 
-I'm David — a data scientist with a PhD in statistics and a growing portfolio of applied ML and data projects.
+My work focuses on applied AI engineering: agentic reasoning, real tool calls, and clean, observable system behaviour.
 
-📂 Explore my pinned repos for real-world work on anomaly detection, time series forecasting, and trend modelling.  
-🌐 View my full portfolio: [david-revell.github.io](https://david-revell.github.io)
+You can explore my active projects in the pinned repositories below.
