@@ -1,4 +1,4 @@
-Hi — I’m David. I build practical AI agents and tool-integrated workflows using the OpenAI Agents SDK, MCP, and Phoenix tracing.
+Hi, I am David. I build practical AI agents and tool-integrated workflows using the OpenAI Agents SDK, MCP, and Phoenix tracing.
 
 My work focuses on applied AI engineering: agentic reasoning, real tool calls, and clean, observable system behaviour.
 
